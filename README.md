@@ -6,7 +6,7 @@ This repository contains my submission for the "Fundamentals of Intelligent Syst
 
 ## 🗂️ Project Contents
 
-* **Questions 1, 2, & 3:** The answers are in the `.docx` file.
+* **Questions 1, 2, & 3:** [Click to view Word File](HW1_SeyedmohammadrezaHosseini_40117463.docx)
 
 * **Question 4:** [Google Colab Link](https://colab.research.google.com/drive/1gyjc7O9telHdHyHTiPeCz2A2JYM81iYJ?usp=sharing)
 
