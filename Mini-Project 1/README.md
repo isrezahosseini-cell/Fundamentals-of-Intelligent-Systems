@@ -3,7 +3,7 @@
 This folder contains the theoretical and practical solutions for the first part of the course, focusing on data analysis and neural network basics.
 
 ## 📄 Project Materials
-* **PDF Report:** [View HW1 Report](./HW1.pdf)
+* **PDF Report:** [View HW1 Report](.https://github.com/isrezahosseini-cell/Fundamentals-of-Intelligent-Systems/blob/main/Mini-Project%201/HW1_SeyedmohammadrezaHosseini_40117463.pdf)
 * **Google Colab Implementation:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1gyjc7O9telHdHyHTiPeCz2A2JYM81iYJ?usp=sharing)
 
 ---
